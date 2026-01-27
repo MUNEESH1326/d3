@@ -31,7 +31,7 @@ Try out the IP core's CLI Debugger feature by going into the same directory as t
 
 Read the two documents to figure out what commands need to be run, try it, and then use Python to automate it. 
 
-***NOTE:*** **If running `./impl0` doesn't work, try `impl0` without the `./`. If it still doesn't work for you on your laptop, you can try doing the assignment on the remote server. Check `/home/emmanuella.pv@oppstar.local/PYTHON_TRAINING/insts` (read the README!).**
+***NOTE:*** **If running `./impl0` doesn't work, try `impl0`, `impl0.exe`, and `./impl0.exe`. If it still doesn't work for you on your laptop, you can try doing the assignment on the remote server. Check `/home/emmanuella.pv@oppstar.local/PYTHON_TRAINING/insts` (read the README!).**
 
 ## Assignment instructions
 The FIR filter IP can be reset, enabled, disabled, halted, set to bypass mode, overflown, and cleared by writing to its register.
